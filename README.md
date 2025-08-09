@@ -62,8 +62,7 @@ Future Improvements: Train deep learning segmentation model for more complex flo
 
 ### Project Demo
 # Video
-https://github.com/FeonaV/useless_project_thama/blob/main/Screen%20Recording%202025-08-09%20163311.mp4
-
+https://github.com/FeonaV/useless_project_thama/raw/refs/heads/main/Screen%20Recording%202025-08-09%20163311.mp4
 
 
 ## Team Contributions
