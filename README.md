@@ -57,35 +57,14 @@ Limitations: Works best on clear, top-down flower images with non-overlapping pe
 Future Improvements: Train deep learning segmentation model for more complex flowers.
 
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 https://github.com/FeonaV/useless_project_thama/blob/main/Screen%20Recording%202025-08-09%20163311.mp4
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
 - [FEONA ]: [Developed image processing logic, integrated OpenCV with Streamlit UI.]
