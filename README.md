@@ -82,7 +82,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Click here-](https://github.com/FeonaV/useless_project_thama/blob/main/Screen%20Recording%202025-08-09%20163311.mp4)
+https://github.com/FeonaV/useless_project_thama/blob/main/Screen%20Recording%202025-08-09%20163311.mp4
 
 # Additional Demos
 [Add any extra demo materials/links]
