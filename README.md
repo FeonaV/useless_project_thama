@@ -1,7 +1,7 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Petal-o-meter] 🎯
 
 
 ## Basic Details
@@ -9,8 +9,8 @@
 
 
 ### Team Members
-- Team Lead: [Feona] - [CUSAT]
-- Member 2: [Thamanna] - [CUSAT]
+- Team Lead: Feona - [CUSAT]
+- Member 2: Thamanna - [CUSAT]
   
 
 ### Project Description
@@ -66,8 +66,8 @@ https://github.com/FeonaV/useless_project_thama/raw/refs/heads/main/Screen%20Rec
 
 
 ## Team Contributions
-- [FEONA ]: [Developed image processing logic, integrated OpenCV with Streamlit UI.]
-- [THAMANNA]: [Worked on debugging, testing with different flower images, created project documentation.]
+- FEONA : [Developed image processing logic, integrated OpenCV with Streamlit UI.]
+- THAMANNA: [Worked on debugging, testing with different flower images, created project documentation.]
   
 
 ---
