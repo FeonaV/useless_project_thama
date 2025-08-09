@@ -5,13 +5,13 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Deep think]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Feona] - [CUSAT]
+- Member 2: [Thamanna] - [CUSAT]
+  
 
 ### Project Description
 [2-3 lines about what your project does]
