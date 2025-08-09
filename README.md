@@ -57,16 +57,6 @@ Limitations: Works best on clear, top-down flower images with non-overlapping pe
 Future Improvements: Train deep learning segmentation model for more complex flowers.
 
 
-# Screenshots (Add at least 3)
-![Screenshot1]("C:\Users\ASHIK ABU\OneDrive\Pictures\Screenshots 1\Screenshot 2025-08-09 163146.png")
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
@@ -92,8 +82,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[Click here-](https://github.com/FeonaV/useless_project_thama/blob/main/Screen%20Recording%202025-08-09%20163311.mp4)
 
 # Additional Demos
 [Add any extra demo materials/links]
